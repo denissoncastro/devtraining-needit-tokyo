@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Log" section_id="e1fb6eb74770311009a1a9f8536d432f" sys_domain="global" table="x_58872_needit_needit" version="3" view="Joe_Everton">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-28 19:12:10</sys_created_on>
+            <sys_id>3dfb6eb74770311009a1a9f8536d4351</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="29fb6eb74770311009a1a9f8536d432a">e1fb6eb74770311009a1a9f8536d432f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-28 19:12:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-28 19:12:10</sys_created_on>
+            <sys_id>bdfb6eb74770311009a1a9f8536d4351</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="29fb6eb74770311009a1a9f8536d432a">e1fb6eb74770311009a1a9f8536d432f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-28 19:12:10</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-28 19:12:10</sys_created_on>
+            <sys_id>f1fb6eb74770311009a1a9f8536d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="29fb6eb74770311009a1a9f8536d432a">e1fb6eb74770311009a1a9f8536d432f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-28 19:12:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-28 19:12:10</sys_created_on>
+            <sys_id>75fb6eb74770311009a1a9f8536d4352</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="29fb6eb74770311009a1a9f8536d432a">e1fb6eb74770311009a1a9f8536d432f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-28 19:12:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-28 19:12:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1fb6eb74770311009a1a9f8536d432f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_e1fb6eb74770311009a1a9f8536d432f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-28 19:12:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Joe Everton" name="Joe_Everton">29fb6eb74770311009a1a9f8536d432a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>018a8546db1d695042b321c4059619d4</instance_id>
+        <instance_name>dev157742</instance_name>
+        <name>sys_ui_section_e1fb6eb74770311009a1a9f8536d432f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Log" section_id="e1fb6eb74770311009a1a9f8536d432f" sys_domain="global" table="x_58872_needit_needit" version="3" view="Joe_Everton"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 19:12:10</sys_created_on><sys_id>3dfb6eb74770311009a1a9f8536d4351</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="29fb6eb74770311009a1a9f8536d432a">e1fb6eb74770311009a1a9f8536d432f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 19:12:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 19:12:10</sys_created_on><sys_id>bdfb6eb74770311009a1a9f8536d4351</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="29fb6eb74770311009a1a9f8536d432a">e1fb6eb74770311009a1a9f8536d432f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 19:12:10</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 19:12:10</sys_created_on><sys_id>f1fb6eb74770311009a1a9f8536d4352</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="29fb6eb74770311009a1a9f8536d432a">e1fb6eb74770311009a1a9f8536d432f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 19:12:10</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 19:12:10</sys_created_on><sys_id>75fb6eb74770311009a1a9f8536d4352</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="29fb6eb74770311009a1a9f8536d432a">e1fb6eb74770311009a1a9f8536d432f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 19:12:10</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Log</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-28 19:12:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e1fb6eb74770311009a1a9f8536d432f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_e1fb6eb74770311009a1a9f8536d432f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-28 19:12:09</sys_updated_on><sys_user/><title>false</title><view display_value="Joe Everton" name="Joe_Everton">29fb6eb74770311009a1a9f8536d432a</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>513857066</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>e23337fd4734311009a1a9f8536d4396</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 19:12:10</sys_created_on>
+        <sys_id>71fb6eb74770311009a1a9f8536d4354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a3d8f83340000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 19:12:10</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f9fb6eb72f70311041d5f3fa89cec853</update_guid>
+        <update_guid_history>f9fb6eb72f70311041d5f3fa89cec853:513857066</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 19:26:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>48b99c400246442ab363301d14c97a04</sys_id>
+        <sys_metadata>e1fb6eb74770311009a1a9f8536d432f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">7aaa01524730311009a1a9f8536d4337</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e1fb6eb74770311009a1a9f8536d432f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e1fb6eb74770311009a1a9f8536d432f">71fb6eb74770311009a1a9f8536d4354</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 19:26:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
